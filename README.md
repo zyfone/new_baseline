@@ -1,4 +1,4 @@
-# new_baseline
+# how to install our code
 
 
 cuda 11.1 version
